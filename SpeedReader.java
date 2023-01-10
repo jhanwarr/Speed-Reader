@@ -1,18 +1,3 @@
-/*
- * 
- *  Author - Raj Vardhan Jhanwar
- *  Due Date - 11/14/2022
- *  Assignment 5
- * 
- * 
- *  Written/Online Sources used - None
- *  Help Obtained - None
- * 
- *  I confirm that the above list of sources is the complete AND that I have not talked 
- *  to anyone else (eg., any CSC 207 students) about the solutions to this problem.
- * 
- */
-
 import java.awt.Graphics;
 import java.awt.Font;
 
